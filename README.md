@@ -1,2 +1,2 @@
 
-**Caching calculation formulas for various problems**
+**Caching calculations formulas for various problems**
